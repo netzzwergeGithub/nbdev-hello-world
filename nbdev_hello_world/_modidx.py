@@ -5,5 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://netzzwergeGithub.github.io',
                 'git_url': 'https://github.com/netzzwergeGithub/nbdev-hello-world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': { 'nbdev_hello_world.cards': {'nbdev_hello_world.cards.foo': ('cards.html#foo', 'nbdev_hello_world/cards.py')},
-            'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+  'syms': {'nbdev_hello_world.cards': {'nbdev_hello_world.cards.foo': ('cards.html#foo', 'nbdev_hello_world/cards.py')}}}
